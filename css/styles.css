@@ -508,6 +508,14 @@ a {
   }
 }
 
+@media screen and (max-width: 768px) {
+  .testimonial__image > .icon-container {
+    height: 50px;
+    width: 50px;
+    right: -25px;
+  }
+}
+
 /* Callout */
 
 .callout {
