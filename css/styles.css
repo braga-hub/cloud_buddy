@@ -550,6 +550,10 @@ a {
     width: 50px;
     right: -25px;
   }
+
+  .testimonial__image {
+    margin: 0 1.5rem;
+  }
 }
 
 /* Callout */
@@ -661,6 +665,7 @@ a {
 
 .block__header {
   text-align: center;
+  margin-bottom: 4rem;
 }
 
 .container {
